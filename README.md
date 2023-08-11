@@ -1,5 +1,5 @@
 ## $\textbf{Subject}$: $\textit{Deep Learning}$
-### $\textbf{Course}$: $\textit{MCA Semester 5}$
+### $\textbf{Course}$: $\textit{MCA Semester 3}$
 ### $\textbf{Instructor}$: $\textit{Zeeshan Ahmad Lone}$
 ### $\textbf{Organisation of Chapters}$:
-1. Neuron
+1. [Neuron](neuron.ipynb)
