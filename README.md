@@ -4,4 +4,4 @@
 ### $\textbf{Organisation of Chapters}$:
 1. [Neuron](neuron.ipynb)
 2. [Layer](layer_of_neurons.ipynb)
-3 .[Feed-Forward-Neural-Network](ffnn.ipynb)
+3.[Feed-Forward-Neural-Network](ffnn.ipynb)
